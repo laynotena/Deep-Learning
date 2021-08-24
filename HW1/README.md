@@ -1,13 +1,13 @@
 HW1 
 
-BackPropogation
+Deep Neural Network for Classification
 
-DataSet : [character-deaths.csv](https://github.com/laynotena/Data-Mining/blob/main/HW1/character-deaths.csv) ( https://www.kaggle.com/mylesoneill/game-of-thrones )
+DataSet : [titanic.csv](https://github.com/laynotena/Deep-Learning/blob/main/HW1/titanic.csv) ( https://www.kaggle.com/c/titanic/data )
 
-Using Model : DecisionTreeClassifier / Confusion Matrix / Graphviz
+Using Model :  Backpropagation / Stochastic Gradient Descent  
 
-Definition of Homework : [HW1題目.PNG]( https://github.com/laynotena/Data-Mining/blob/main/HW1/HW1%E9%A1%8C%E7%9B%AE.PNG )
+Definition of Homework : [HW1題目.pdf]( https://github.com/laynotena/Deep-Learning/blob/main/HW1/HW1%E9%A1%8C%E7%9B%AE.pdf )
 
-Code : [data_mining_hw01_0753524.py](https://github.com/laynotena/Data-Mining/blob/main/HW1/data_mining_hw01_0753524.py)
+Code : [HW1 0753524 邱薇如.py](https://github.com/laynotena/Deep-Learning/blob/main/HW1/HW1%200753524%20%E9%82%B1%E8%96%87%E5%A6%82.py)
 
-Report : [資料探勘HW01.pdf](資料探勘HW01.pdf) 
+Report : [HW1 0753524 邱薇如.pdf](https://github.com/laynotena/Deep-Learning/blob/main/HW1/HW1%200753524%20%E9%82%B1%E8%96%87%E5%A6%82.pdf) 
